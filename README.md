@@ -37,9 +37,9 @@ Aplikasi ini adalah program berbasis Java yang digunakan untuk menghitung harga 
 Misalnya Anda memiliki produk dengan harga asli **Rp100.000** dan diskon sebesar **20%**:
 
 1. Masukkan **100000** sebagai harga asli.
-2. Masukkan **20** sebagai persentase diskon.
+2. Masukkan **25** sebagai persentase diskon.
 3. Tekan tombol **Hitung Diskon**.
-4. Hasil harga setelah diskon, yaitu **Rp80.000**, akan ditampilkan.
+4. Hasil harga setelah diskon, yaitu **Rp75.000**, akan ditampilkan.
 
 ## Lisensi
 
